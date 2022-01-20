@@ -1,2 +1,2 @@
 # ComputationalPhysics
-Computational physics scripts
+Computational physics scripts repository
