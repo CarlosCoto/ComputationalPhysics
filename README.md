@@ -2,17 +2,17 @@
 
 Computational physics scripts repository
 
-Numerical methods:
+Numerical methods (with Fortran):
 
-- Interpolation.ipynb: Lagrange interpolation with Fortran
+- Interpolation.ipynb: Lagrange interpolation
 
-- Integration.ipynb: Simpson's composite method with Fortran
+- Integration.ipynb: Simpson's composite method
 
-- SystemOfEquations.ipynb: Resolution of system of equations by Gauss-Seidel method with Fortran
+- SystemOfEquations.ipynb: Resolution of system of equations by Gauss-Seidel method
 
-- ZeroesOfFunctions.ipynb : Search for zeroes of functions using the Secant method with Fortran
+- ZeroesOfFunctions.ipynb : Search for zeroes of functions using the Secant method
 
-- Overflow.ipynb: determine overflow in simple and double precision with Fortran
+- Overflow.ipynb: determine overflow in simple and double precision
 
 
 The error at the bottom of the code blocks ("LFortran Exception: visit_Read() not implemented") is due to the lack of implementation of file IO in the runtime library of LFortran for Jupyter
