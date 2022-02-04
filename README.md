@@ -1,5 +1,5 @@
 # Computational Physics
-Computational physics scripts repository
+Computational physics scripts repository:
 
 - Interpolation: Lagrange interpolation with Fortran
 
