@@ -8,7 +8,9 @@ Numerical methods:
 
 - Integration.ipynb: Simpson's composite method with Fortran
 
-- SystemOfEquations.ipynb: Resolution of system of equations by Gauss-Seidel Method with Fortran
+- SystemOfEquations.ipynb: Resolution of system of equations by Gauss-Seidel method with Fortran
+
+- ZeroesOfFunctions.ipynb : Search for zeroes of functions using the Secant method with Fortran
 
 
 The error at the bottom of the code blocks ("LFortran Exception: visit_Read() not implemented") is due to the lack of implementation of file IO in the runtime library of LFortran for Jupyter
