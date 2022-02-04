@@ -2,7 +2,7 @@
 
 Computational physics scripts repository:
 
-NUMERICAL METHODS
+Numerical methods:
 
 - Interpolation.ipynb: Lagrange interpolation with Fortran
 
