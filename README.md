@@ -9,7 +9,7 @@ Computational physics scripts repository:
 - SystemOfEquations.ipynb: Resolution of system of equations by Gauss-Seidel Method with Fortran
 
 
-The error at the bottom of the code blocks is due to the lack of implementation of file IO in the runtime library of LFortran library for Jupyter
+The error at the bottom of the code blocks is due to the lack of implementation of file IO in the runtime library of LFortran for Jupyter
 https://fortran-lang.discourse.group/t/lfortran-exception-visit-read-not-implemented-error/1803
 https://gitlab.com/lfortran/lfortran/-/issues/563
 
