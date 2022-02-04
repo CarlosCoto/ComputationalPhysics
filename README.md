@@ -2,6 +2,8 @@
 
 Computational physics scripts repository:
 
+NUMERICAL METHODS
+
 - Interpolation.ipynb: Lagrange interpolation with Fortran
 
 - Integration.ipynb: Simpson's composite method with Fortran
