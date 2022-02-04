@@ -1,6 +1,6 @@
 # Computational Physics
 
-Computational physics scripts repository:
+Computational physics scripts repository
 
 Numerical methods:
 
