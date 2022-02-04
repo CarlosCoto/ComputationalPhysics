@@ -5,4 +5,4 @@ Computational physics scripts repository:
 
 - Integration: Simpson's composite method with Fortran
 
-- SystemOfEquations: Resolution of system of equations by Gauss-Seidel Method
+- SystemOfEquations: Resolution of system of equations by Gauss-Seidel Method with Fortran
