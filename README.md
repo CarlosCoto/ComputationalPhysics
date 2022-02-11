@@ -14,6 +14,8 @@ Numerical methods (with Fortran):
 
 - Overflow.ipynb: determine overflow in simple and double precision
 
+- ssolar.f: Program that simulates the Solar System using Verlet algorithm for solving differential equations
+
 
 The error at the bottom of the code blocks ("LFortran Exception: visit_Read() not implemented") is due to the lack of implementation of file IO in the runtime library of LFortran for Jupyter
 https://fortran-lang.discourse.group/t/lfortran-exception-visit-read-not-implemented-error/1803
