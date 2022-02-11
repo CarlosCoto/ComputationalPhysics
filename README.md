@@ -14,6 +14,10 @@ Numerical methods (with Fortran):
 
 - Overflow.ipynb: determine overflow in simple and double precision
 
+Simulations:
+
+-Molecular dynamics:
+
 - ssolar.f: Program that simulates the Solar System using Verlet algorithm for solving differential equations
 
 
