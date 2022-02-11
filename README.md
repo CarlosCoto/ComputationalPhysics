@@ -16,7 +16,7 @@ Numerical methods (with Fortran):
 
 Simulations:
 
--Molecular dynamics:
+-Molecular dynamics (with Fortran):
 
 - ssolar.f: Program that simulates the Solar System using Verlet algorithm for solving differential equations
 
