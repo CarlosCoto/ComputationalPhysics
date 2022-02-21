@@ -19,6 +19,7 @@ Simulations:
 -Molecular dynamics (with Fortran):
 
 - ssolar.f: Program that simulates the Solar System using Verlet algorithm for solving differential equations
+- schroedinger.f: Program that simulates a quantum particle	on a squared potential	well
 
 
 The error at the bottom of the code blocks ("LFortran Exception: visit_Read() not implemented") is due to the lack of implementation of file IO in the runtime library of LFortran for Jupyter
